@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/ArtemN3/deposit-calc.svg?branch=master)](https://travis-ci.org/ArtemN3/deposit-calc)
